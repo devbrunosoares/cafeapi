@@ -1,0 +1,32 @@
+{
+  "name": "devbrunosoares/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Bruno Soares Ramos",
+    "devbrunosoares",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "https://www.upseven.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bruno Soares",
+      "email": "brusoaresramos@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "devbrunosoares\\CafeApi\\": "src"
+    }
+  }
+}
