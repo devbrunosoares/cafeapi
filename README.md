@@ -13,8 +13,6 @@
 
 CaféApi Library é um pequeno conjunto de classes desenvolvidas na formação Full Stack PHP Developer da UpInside para integração ao webservice de uma plataforma SaaS desenvolvida no curso.
 
-Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
-
 ### Highlights
 
 - Simple installation (Instalação simples)
